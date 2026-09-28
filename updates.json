@@ -29,17 +29,6 @@
   ],
   "plans": [
     {
-      "name": "ESP PREMIUM PANEL",
-      "prices": {
-        "7d": 220,
-        "15d": 300,
-        "30d": 600,
-        "65d": 800,
-        "life": 1200
-      },
-      "extendDiscount": 40
-    },
-    {
       "name": "FREEZE TELEKILL",
       "prices": {
         "7d": 180,
