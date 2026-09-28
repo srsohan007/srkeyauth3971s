@@ -1,11 +1,1 @@
-[
-  {
-    "id": "bal_1790624468026_gins",
-    "type": "balanceAdded",
-    "reseller": "SR",
-    "amount": 50000,
-    "newBalance": 50080,
-    "status": "info",
-    "createdAt": "2026-09-28T19:41:08.026Z"
-  }
-]
+[]
