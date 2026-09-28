@@ -27,17 +27,5 @@
       "name": "FREEZE AIMBOT"
     }
   ],
-  "plans": [
-    {
-      "name": "FREEZE TELEKILL",
-      "prices": {
-        "7d": 180,
-        "15d": 220,
-        "30d": 400,
-        "65d": 550,
-        "life": 800
-      },
-      "extendDiscount": 40
-    }
-  ]
+  "plans": []
 }
