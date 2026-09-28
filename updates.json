@@ -1,1 +1,54 @@
-{}
+{
+  "paymentInfo": [],
+  "downloads": [],
+  "masterPlans": [
+    {
+      "name": "AIMBOT PANEL"
+    },
+    {
+      "name": "ESP PREMIUM PANEL"
+    },
+    {
+      "name": "FREEZE TELEKILL"
+    },
+    {
+      "name": "BASIC PANEL"
+    },
+    {
+      "name": "PREMIUM PANEL"
+    },
+    {
+      "name": "AIMBOT PYTHON"
+    },
+    {
+      "name": "PYTHON PREMIUM"
+    },
+    {
+      "name": "FREEZE AIMBOT"
+    }
+  ],
+  "plans": [
+    {
+      "name": "ESP PREMIUM PANEL",
+      "prices": {
+        "7d": 220,
+        "15d": 300,
+        "30d": 600,
+        "65d": 800,
+        "life": 1200
+      },
+      "extendDiscount": 40
+    },
+    {
+      "name": "FREEZE TELEKILL",
+      "prices": {
+        "7d": 180,
+        "15d": 220,
+        "30d": 400,
+        "65d": 550,
+        "life": 800
+      },
+      "extendDiscount": 40
+    }
+  ]
+}
