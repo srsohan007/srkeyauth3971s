@@ -6,5 +6,23 @@
       "name": "AIMBOT PANEL"
     }
   ],
-  "plans": []
+  "plans": [
+    {
+      "name": "AIMBOT PANEL",
+      "prices": {
+        "7d": 120,
+        "15d": 200,
+        "30d": 350,
+        "65d": 500,
+        "life": 700
+      },
+      "extendDiscount": {
+        "7d": 0,
+        "15d": 0,
+        "30d": 0,
+        "65d": 5,
+        "life": 6
+      }
+    }
+  ]
 }
