@@ -1,0 +1,34 @@
+[
+  {
+    "username": "tarek30015",
+    "password": "tarek20015",
+    "balance": 9000,
+    "totalSpent": 2420,
+    "blocked": false,
+    "created": "2026-09-22T16:46:18.344Z"
+  },
+  {
+    "username": "Jilani",
+    "password": "@@##01011990@@##",
+    "balance": 500,
+    "totalSpent": 2000,
+    "blocked": false,
+    "created": "2026-09-23T15:01:10.883Z"
+  },
+  {
+    "username": "RIYAD",
+    "password": "9681",
+    "balance": 700,
+    "totalSpent": 300,
+    "blocked": false,
+    "created": "2026-09-26T12:29:50.653Z"
+  },
+  {
+    "username": "SR",
+    "password": "1",
+    "balance": 49280,
+    "totalSpent": 1220,
+    "blocked": false,
+    "created": "2026-09-28T19:32:00.680Z"
+  }
+]

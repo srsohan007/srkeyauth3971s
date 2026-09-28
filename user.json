@@ -1,0 +1,507 @@
+[
+  {
+    "username": "Joy",
+    "password": "1",
+    "hwid": "85C8BD3485CAF63D9A736C34A7F1575E",
+    "expiry": "2050-01-01",
+    "subscription": "BASIC PANEL",
+    "frozen": true
+  },
+  {
+    "username": "JoyB",
+    "password": "1",
+    "hwid": "85C8BD3485CAF63D9A736C34A7F1575E",
+    "expiry": "2050-01-01",
+    "subscription": "BYPASS",
+    "frozen": true
+  },
+  {
+    "username": "Nuxoa",
+    "password": "1",
+    "hwid": "AE84A03E2C5CF7632A45F67202351D05",
+    "expiry": "2050-01-01",
+    "subscription": "AIMBOT PANEL",
+    "frozen": true
+  },
+  {
+    "username": "Rasel",
+    "password": "1",
+    "hwid": "7E5B24AE1CCD24B4D7FE3F18C71C7319",
+    "expiry": "2050-01-01",
+    "subscription": "PREMIUM PANEL",
+    "frozen": false
+  },
+  {
+    "username": "Hof",
+    "password": "1",
+    "hwid": "3674E45112C7BA80DFBBB3A8ABD8DB0D",
+    "expiry": "2050-01-01",
+    "subscription": "PREMIUM PANEL",
+    "frozen": true
+  },
+  {
+    "username": "Araf",
+    "password": "1",
+    "hwid": "2EDCAE01BF1F0D8FD87AA62CB930038A",
+    "expiry": "2050-01-01",
+    "subscription": "BASIC PANEL",
+    "frozen": true
+  },
+  {
+    "username": "Ariyan",
+    "password": "1",
+    "hwid": "FEDCC42C28C65A95CB760E2616A8E57C",
+    "expiry": "2050-01-01",
+    "subscription": "PREMIUM PANEL",
+    "frozen": true
+  },
+  {
+    "username": "Talha",
+    "password": "1",
+    "hwid": "FF7762DB8753599AA3A0B4E1F3E3C7DA",
+    "expiry": "2050-01-01",
+    "subscription": "PREMIUM PANEL",
+    "frozen": true
+  },
+  {
+    "username": "Apurbo",
+    "password": "1",
+    "hwid": "E94D8D763B141A5396009073A7C6AB0A",
+    "expiry": "2050-01-01",
+    "subscription": "PREMIUM PANEL",
+    "frozen": false
+  },
+  {
+    "username": "Adi",
+    "password": "1",
+    "hwid": "09BBFEC9E20A60B358EDFAF761885AB0",
+    "expiry": "2050-01-01",
+    "subscription": "PREMIUM PANEL",
+    "frozen": true
+  },
+  {
+    "username": "Sifat",
+    "password": "1",
+    "hwid": "EED0F43BB8D03173EDA97D9BE976FB27",
+    "expiry": "2050-01-01",
+    "subscription": "BASIC PANEL",
+    "frozen": false
+  },
+  {
+    "username": "FahadB",
+    "password": "1",
+    "hwid": "2B9ABC10DF3A570E66DB4D32A246A005",
+    "expiry": "2050-01-19",
+    "subscription": "BYPASS",
+    "frozen": true
+  },
+  {
+    "username": "Nabil",
+    "password": "1",
+    "hwid": "E3AAFB38BD0E1078D0B64ADB6675C5E6",
+    "expiry": "2050-01-01",
+    "subscription": "AIMBOT PANEL",
+    "frozen": true
+  },
+  {
+    "username": "Premium",
+    "password": "1",
+    "expiry": "2050-01-01",
+    "subscription": "PREMIUM PANEL",
+    "hwid": "",
+    "frozen": false
+  },
+  {
+    "username": "tausifur",
+    "password": "1",
+    "expiry": "2050-01-01",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "6EA017D687CB47FDBF6C912F5EA526DA",
+    "frozen": true
+  },
+  {
+    "username": "Sohanaim",
+    "password": "1",
+    "expiry": "2050-01-01",
+    "subscription": "AIMBOT PYTHON",
+    "hwid": "4F572FF4E4D228151A101F3F7A11AF14",
+    "frozen": false
+  },
+  {
+    "username": "SRP",
+    "password": "1",
+    "expiry": "2050-01-01",
+    "subscription": "PYTHON PREMIUM",
+    "hwid": "0B1727A237DC0FBED486A8FEDB48AF10",
+    "frozen": false
+  },
+  {
+    "username": "Rahim",
+    "password": "1",
+    "expiry": "2026-04-13",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "49B6E80D5C13D535BCF5581195D72439",
+    "frozen": false
+  },
+  {
+    "username": "Ayan",
+    "password": "1",
+    "expiry": "2030-03-25",
+    "subscription": "PREMIUM PANEL",
+    "hwid": "C905F9CB9ADF67CAC964B638424C9702",
+    "frozen": true
+  },
+  {
+    "username": "Bijoy",
+    "password": "0",
+    "expiry": "2026-04-04",
+    "subscription": "PYTHON PREMIUM",
+    "hwid": "D41D8CD98F00B204E9800998ECF8427E",
+    "frozen": false
+  },
+  {
+    "username": "78",
+    "password": "78",
+    "expiry": "2026-04-07",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "6CB6C0B5861B7FF4AED397EC5FEED44E",
+    "frozen": false
+  },
+  {
+    "username": "2030",
+    "password": "1",
+    "expiry": "2026-04-16",
+    "subscription": "PREMIUM PANEL",
+    "hwid": "6CB6C0B5861B7FF4AED397EC5FEED44E",
+    "frozen": false
+  },
+  {
+    "username": "AriyaSS",
+    "password": "1",
+    "expiry": "2050-04-09",
+    "subscription": "PREMIUM PANEL",
+    "hwid": "",
+    "frozen": true
+  },
+  {
+    "username": "Ganibaba",
+    "password": "1",
+    "expiry": "2050-04-11",
+    "subscription": "PREMIUM PANEL",
+    "hwid": "CFDECEC87B6919254B210A91D024AD64",
+    "frozen": true
+  },
+  {
+    "username": "Siddik",
+    "password": "1",
+    "expiry": "2028-05-07",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "84EE74BAE75BABE7A01AA4994BB3C9DF",
+    "frozen": true
+  },
+  {
+    "username": "Sakib",
+    "password": "S1",
+    "expiry": "2026-08-01",
+    "subscription": "BASIC PANEL",
+    "hwid": "0A4640A12700B9B7BDBE3E65DCB9CD66",
+    "frozen": false
+  },
+  {
+    "username": "mehedi",
+    "password": "1",
+    "expiry": "2027-12-19",
+    "subscription": "FREEZE TELEKILL",
+    "hwid": "D41D8CD98F00B204E9800998ECF8427E",
+    "frozen": false
+  },
+  {
+    "username": "Tarek",
+    "password": "1",
+    "expiry": "2027-12-21",
+    "subscription": "FREEZE TELEKILL",
+    "hwid": "78E735920D2FAEE6CC1C53542C330979",
+    "frozen": false
+  },
+  {
+    "username": "sr1",
+    "password": "1",
+    "expiry": "2053-12-25",
+    "subscription": "FREEZE TELEKILL",
+    "hwid": "9700E71B8EDA60478EFFC701B0A86C14",
+    "frozen": false
+  },
+  {
+    "username": "ss",
+    "password": "1",
+    "expiry": "2163-07-03",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "0A0809CB58BF2D683176D969B01C7815",
+    "frozen": false
+  },
+  {
+    "username": "apa1",
+    "password": "1",
+    "expiry": "2027-12-26",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "E94D8D763B141A5396009073A7C6AB0A",
+    "frozen": false
+  },
+  {
+    "username": "777",
+    "password": "1",
+    "expiry": "2027-12-28",
+    "subscription": "ESP PREMIUM PANEL",
+    "hwid": "E94D8D763B141A5396009073A7C6AB0A",
+    "frozen": false
+  },
+  {
+    "username": "fahim",
+    "password": "1",
+    "expiry": "2026-12-26",
+    "subscription": "FREEZE TELEKILL",
+    "hwid": "A3C60D6EF573EAFBC2A31BB7BEB3D9F0",
+    "frozen": false
+  },
+  {
+    "username": "esp",
+    "password": "1",
+    "expiry": "9999-01-01",
+    "subscription": "ESP PREMIUM PANEL",
+    "hwid": "0A0809CB58BF2D683176D969B01C7815",
+    "frozen": false
+  },
+  {
+    "username": "Captain",
+    "password": "1",
+    "expiry": "9999-01-01",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "F61908EB1AA276E4C2B269D4832AB53C",
+    "frozen": false
+  },
+  {
+    "username": "Nothingf",
+    "password": "1",
+    "expiry": "4764-08-06",
+    "subscription": "ESP PREMIUM PANEL",
+    "hwid": "2CD13D6236E03BC010021364A54EE717",
+    "frozen": false
+  },
+  {
+    "username": "Spider",
+    "password": "1",
+    "expiry": "4764-08-06",
+    "subscription": "ESP PREMIUM PANEL",
+    "hwid": "210BF71E25536F31482FB2783AE8B5CC",
+    "frozen": false
+  },
+  {
+    "username": "Hof30",
+    "password": "1",
+    "expiry": "2054-01-25",
+    "subscription": "ESP PREMIUM PANEL",
+    "hwid": "3674E45112C7BA80DFBBB3A8ABD8DB0D",
+    "frozen": false
+  },
+  {
+    "username": "Rashik",
+    "password": "1",
+    "expiry": "2054-01-25",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "9016505C69DE58827D324AB5679907A0",
+    "frozen": false
+  },
+  {
+    "username": "Shamim",
+    "password": "1",
+    "expiry": "2027-09-01",
+    "subscription": "FREEZE TELEKILL",
+    "hwid": "6F6632C8016E6FE4FB2C23640AA0CC2C",
+    "frozen": false
+  },
+  {
+    "username": "Rasellll",
+    "password": "1",
+    "expiry": "9999-01-01",
+    "subscription": "ESP PREMIUM PANEL",
+    "hwid": "7E5B24AE1CCD24B4D7FE3F18C71C7319",
+    "frozen": false
+  },
+  {
+    "username": "bmw",
+    "password": "1",
+    "expiry": "2026-10-19",
+    "subscription": "FREEZE TELEKILL",
+    "hwid": "3C5D62DD6048E619DE347408B402CDD4",
+    "frozen": false
+  },
+  {
+    "username": "000",
+    "password": "0",
+    "expiry": "2026-10-19",
+    "subscription": "PYTHON PREMIUM",
+    "hwid": "9700E71B8EDA60478EFFC701B0A86C14",
+    "frozen": false
+  },
+  {
+    "username": "Fahad",
+    "password": "1",
+    "expiry": "2027-09-20",
+    "subscription": "ESP PREMIUM PANEL",
+    "hwid": "2B9ABC10DF3A570E66DB4D32A246A005",
+    "frozen": false
+  },
+  {
+    "username": "Apurbopy",
+    "password": "1",
+    "expiry": "2026-10-20",
+    "subscription": "PYTHON PREMIUM",
+    "hwid": "4FBA81EBD8B91BE35414560BE35674B5",
+    "frozen": false
+  },
+  {
+    "username": "arnib",
+    "password": "1",
+    "expiry": "2027-01-18",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "D6394AC6AC47AB121F3EEA4E4A6572CD",
+    "frozen": false
+  },
+  {
+    "username": "5555",
+    "password": "5",
+    "expiry": "2026-09-24",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "BE5575BAC2A7142F466694AC20B3C96D",
+    "frozen": false
+  },
+  {
+    "username": "Nazmul",
+    "password": "1",
+    "expiry": "2026-10-21",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "C17FB416B321AEEAF561BEDB20E7F11E",
+    "frozen": false
+  },
+  {
+    "username": "121",
+    "password": "1",
+    "expiry": "2026-11-21",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "78E735920D2FAEE6CC1C53542C330979",
+    "frozen": false
+  },
+  {
+    "username": "1211",
+    "password": "1",
+    "expiry": "2099-12-31",
+    "subscription": "PYTHON PREMIUM",
+    "hwid": "D41D8CD98F00B204E9800998ECF8427E",
+    "frozen": false,
+    "owner": "tarek30015"
+  },
+  {
+    "username": "Maxesp",
+    "password": "1",
+    "expiry": "2026-10-22",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "C655731E9ABD36352B218C31261ADB81",
+    "frozen": false
+  },
+  {
+    "username": "Jilani",
+    "password": "11",
+    "expiry": "2099-12-31",
+    "subscription": "PYTHON PREMIUM",
+    "hwid": "B202BFFF99BD092C55C6E98188975F06",
+    "frozen": false,
+    "owner": "Jilani"
+  },
+  {
+    "username": "streamer",
+    "password": "1",
+    "expiry": "2054-02-08",
+    "subscription": "STREAMER PANEL",
+    "hwid": "9700E71B8EDA60478EFFC701B0A86C14",
+    "frozen": false
+  },
+  {
+    "username": "Hofst",
+    "password": "1",
+    "expiry": "2300-07-09",
+    "subscription": "STREAMER PANEL",
+    "hwid": "D41D8CD98F00B204E9800998ECF8427E",
+    "frozen": false
+  },
+  {
+    "username": "Esplc",
+    "password": "1",
+    "expiry": "2054-02-10",
+    "subscription": "ESP LOCATION",
+    "hwid": "0A0809CB58BF2D683176D969B01C7815",
+    "frozen": false
+  },
+  {
+    "username": "riyad",
+    "password": "1",
+    "expiry": "2026-10-11",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "2DD48D41B5C7BAF59A4C3888DE661ED4",
+    "frozen": false,
+    "owner": "RIYAD"
+  },
+  {
+    "username": "emon",
+    "password": "1",
+    "expiry": "2026-10-26",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "FE4AC89C09006BB8BBACCB8E9C421268",
+    "frozen": false,
+    "owner": "tarek30015"
+  },
+  {
+    "username": "lullu",
+    "password": "1",
+    "expiry": "2026-10-26",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "F9697C33016D501064D52A33293B415B",
+    "frozen": false,
+    "owner": "tarek30015"
+  },
+  {
+    "username": "jilaniesp",
+    "password": "22",
+    "expiry": "2099-12-31",
+    "subscription": "ESP LOCATION",
+    "hwid": "79DE0465DBCC66B9E517D79145E16C98",
+    "frozen": false,
+    "owner": "Jilani"
+  },
+  {
+    "username": "antor",
+    "password": "1",
+    "expiry": "2026-10-12",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "FE4AC89C09006BB8BBACCB8E9C421268",
+    "frozen": false,
+    "owner": "RIYAD"
+  },
+  {
+    "username": "joy",
+    "password": "1",
+    "expiry": "2099-12-31",
+    "subscription": "AIMBOT PANEL",
+    "hwid": "",
+    "frozen": false,
+    "owner": "tarek30015"
+  },
+  {
+    "name": "sr",
+    "sid": "S-1-5-21-973249967-1782930954-1324568832-1001",
+    "username": "S-1-5-21-973249967-1782930954-1324568832-1001",
+    "expiry": "2099-12-31",
+    "subscription": "FREEZE TELEKILL",
+    "frozen": false,
+    "owner": "SR"
+  }
+]
